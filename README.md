@@ -34,9 +34,4 @@ By analyzing production-line sensor data, this project demonstrates how predicti
 
 ---
 
-## 📂 Project Structure
-## 📊 Dataset
-- **File:** `uci-secom.csv`
-## Code
-- **File:** `Wafer_Fault_detection.ipynb`
 
